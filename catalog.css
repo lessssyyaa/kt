@@ -1,0 +1,36 @@
+:root{
+    --black: #000;
+    --grey: #ECECEC;
+    --beige: #FDF8F5;
+}
+.catalog{
+    background-color: var(--grey);
+    height: 829px;
+}
+.header{
+    background-color:var(--white);
+    box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.1);
+    height: 133px;
+}
+.container{
+    max-width:1400px;
+    margin: 0 auto;
+}
+.header-nuv{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding-top: 41px;
+}
+.menu ul{
+    justify-content: space-between;
+    display: flex;
+    align-items: center;
+    width: 1202px;
+}
+.icon{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 88px;
+}
