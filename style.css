@@ -77,3 +77,35 @@
     font-family: "Montserrat", sans-serif;
     font-weight: 200;
 }
+.block1{
+    background-color: var(--beige);
+    height: 1004px;
+    margin: 0 auto;
+}
+.info{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 100px;
+}
+.left{
+    margin-top: 121px;
+    width: 650px;
+}
+.text1{
+    color: var(--black);
+    font-family: "Cormorant Garamond", serif;
+    font-size: 45px;
+    font-weight: 400;
+    text-transform: uppercase;
+    text-align: center;
+    padding-bottom: 47px;
+}
+.textp{
+    color: var(--black);
+    font-size: 20px;
+    font-family: "Montserrat", sans-serif;
+    font-weight: 200;
+    width: 721px;
+    padding-top: 20px;
+}
