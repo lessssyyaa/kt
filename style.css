@@ -43,3 +43,37 @@
     font-family: "Montserrat", sans-serif;
     font-weight: 200;
 }
+.title {
+    padding-top: 188px;
+    text-align: center;
+    margin: 0 auto;
+    width: 879px;
+    text-transform: uppercase;
+    font-weight: 300;
+    color: var(--black);
+    font-family: "Cormorant Garamond", serif;
+    font-size: 76px;
+}
+.text{
+    font-size: 26px;
+    margin: 0 auto;
+    font-family: "Montserrat", sans-serif;
+    font-weight: 200;
+    width: 394px;
+    color: var(--black);
+    margin-bottom: 48px;
+}
+.button{
+    margin-top: 47px;
+    padding: 10px 38px;
+    background-color: var(--pink);
+    width: 284px;
+    margin: 0 auto;
+    display: block;
+}
+.button a{
+    color: var(--black);
+    font-size: 22px;
+    font-family: "Montserrat", sans-serif;
+    font-weight: 200;
+}
